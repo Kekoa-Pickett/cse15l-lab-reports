@@ -13,6 +13,17 @@ The Best Player is **Cam Newton**!
 
 ![image](https://user-images.githubusercontent.com/103221420/162328707-33f3af96-ded4-4117-b87f-28a0f5d649ab.png)
 
+# Random Topic
+## UCSD's best dining halls (Location doesn't matter)
+1. Sixth
+2. Revelle
+3. Warren
+4. Muir
+5. ERC
+6. Marshall
+7. Seventh
+
+
 
 
 
