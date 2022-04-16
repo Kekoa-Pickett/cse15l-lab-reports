@@ -4,7 +4,7 @@ For this step, I went on the VS code app. Once I downloaded it for the MAC, I op
 To connect remotely, I had to create my own account and password. I used my school email and it worked fine but had to change it to the CS one.
 ![image](https://user-images.githubusercontent.com/103221420/162629013-5c8701e4-fd10-47a5-826d-e3e2ab427edd.png)
 
-I tried the ls and cat commands on my client. I can’t copy or access anything because the permission is denied. To search for files, use ls -a to access hidden files. 
+I tried the ```ls``` and ```cat``` commands on my client. I can’t copy or access anything because the permission is denied. To search for files, use ```ls -a``` to access hidden files. 
 ![image](https://user-images.githubusercontent.com/103221420/162629348-8910c2de-e874-4b04-8a74-c1e1272cdf3b.png)
 
 This took me 4:06, just because I tried to log do scp after logging into ssh which gave me a message asking to permanently add a host key for IP. It will get faster the more times you do it.
