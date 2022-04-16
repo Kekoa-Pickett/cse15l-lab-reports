@@ -1,4 +1,4 @@
-For this step, I went on the VS code app. Once I downloaded it for the MAC, I opened it and created a workspace.
+For this step, I went on the VS code app. Once I downloaded it for the MAC, I opened it and created a workspace. To download, use [this link](https://code.visualstudio.com/).
 <img width="1023" alt="Screen Shot 2022-04-07 at 8 00 46 PM" src="https://user-images.githubusercontent.com/103221420/162355096-22c141e5-5b1b-47b2-9365-964414c856ba.png">
 
 To connect remotely, I had to create my own account and password. I used my school email and it worked fine but had to change it to the CS one.
