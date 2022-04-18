@@ -19,6 +19,6 @@ Create a key using both the server and client. A key is a lot faster than typing
 ![image](https://user-images.githubusercontent.com/103221420/162629818-df70bdb3-c75b-4dea-9988-22033bdb5742.png)
 
 ## Optimizing Remote Running
-Use scp to copy the file and make sure to add ":~/" to the end. Then log in through ssh and you can run it without a password. Or you can run it in the same line that you log into ssh with.
-<img width="1440" alt="Screen Shot 2022-04-11 at 12 31 57 AM" src="https://user-images.githubusercontent.com/103221420/162665597-4eb9bc5e-9eb0-46d9-bce4-cb742274c3e7.png">
+Use scp to copy the file and make sure to add ":~/" to the end. Then, use up arrows if you already have written it or log in to ssh and use quotation marks and semicolons to store and run the file at once.
+<img width="1081" alt="Screen Shot 2022-04-18 at 3 37 32 PM" src="https://user-images.githubusercontent.com/103221420/163888467-2ac4e73c-a5df-44a7-9105-6e91633ff049.png">
 
