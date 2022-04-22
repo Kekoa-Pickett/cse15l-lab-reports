@@ -24,4 +24,3 @@ This should just create a list with nothing but the symptom is a "index out of b
 ## Solved Code
 Didn't know if this was necessary but here is the solved code that fixes my bugs.
 <img width="1230" alt="Screen Shot 2022-04-21 at 9 41 55 PM" src="https://user-images.githubusercontent.com/103221420/164604550-fb2ff10d-c02b-4aa4-8145-0f8eb587f604.png">
-
