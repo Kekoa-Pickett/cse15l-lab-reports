@@ -1,7 +1,7 @@
 # Links to Lab Reports!
-https://kekoa-pickett.github.io/cse15l-lab-reports/lab-report-1-week-2.html <br>
-https://kekoa-pickett.github.io/cse15l-lab-reports/lab-report-2-week-4.html <br>
-https://kekoa-pickett.github.io/cse15l-lab-reports/lab-report-3-week-6.html
+[Lab 1](https://kekoa-pickett.github.io/cse15l-lab-reports/lab-report-1-week-2.html) <br>
+[Lab 2](https://kekoa-pickett.github.io/cse15l-lab-reports/lab-report-2-week-4.html) <br>
+[Lab 3](https://kekoa-pickett.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
 # Totally Unbiased Sports Information
 ## 2022 National Basketball Association results
