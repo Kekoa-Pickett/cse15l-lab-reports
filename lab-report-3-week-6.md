@@ -11,8 +11,10 @@ This also shows how I logged into ssh with the same commands and this one shows 
 
 ## Part 3
 <img width="1150" alt="Screen Shot 2022-05-09 at 12 32 16 AM" src="https://user-images.githubusercontent.com/103221420/167361676-97447684-bdcf-4ae6-b5c7-b93c00c27a88.png"><img width="977" alt="Screen Shot 2022-05-09 at 12 32 49 AM" src="https://user-images.githubusercontent.com/103221420/167361764-5f1a12ff-77f0-4127-8485-a0a05d693419.png"><img width="1078" alt="Screen Shot 2022-05-09 at 12 33 12 AM" src="https://user-images.githubusercontent.com/103221420/167361821-b847798b-f9de-45dd-adc2-5a1f92803229.png">
-This is what happened when I copied the entire inventory over to my ssh login, everything is copied. <br>
+This is what happened when I copied the entire inventory over to my ssh login, everything is copied. 
+<br>
 <img width="1053" alt="Screen Shot 2022-05-09 at 12 19 36 AM" src="https://user-images.githubusercontent.com/103221420/167361534-89319075-9f85-4205-9816-f93d0a943ec0.png">
-In the picture above, I compiled and ran the tests in my ieng6 account with the results passing as they should. <br>
+In the picture above, I compiled and ran the tests in my ieng6 account with the results passing as they should. 
+<br>
 <img width="1134" alt="Screen Shot 2022-05-09 at 12 28 52 AM" src="https://user-images.githubusercontent.com/103221420/167362190-546e6534-1f3d-4800-b602-a8f053b3b4fe.png">
 In this final image, I only copy the files I need into my ieng6 account and in one command compile and run the tests through that account.
