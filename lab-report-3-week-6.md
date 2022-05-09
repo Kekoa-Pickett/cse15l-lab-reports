@@ -11,7 +11,7 @@ This also shows how I logged into ssh with the same commands and this one shows 
 
 ## Part 3
 <img width="1150" alt="Screen Shot 2022-05-09 at 12 32 16 AM" src="https://user-images.githubusercontent.com/103221420/167361676-97447684-bdcf-4ae6-b5c7-b93c00c27a88.png"><img width="977" alt="Screen Shot 2022-05-09 at 12 32 49 AM" src="https://user-images.githubusercontent.com/103221420/167361764-5f1a12ff-77f0-4127-8485-a0a05d693419.png"><img width="1078" alt="Screen Shot 2022-05-09 at 12 33 12 AM" src="https://user-images.githubusercontent.com/103221420/167361821-b847798b-f9de-45dd-adc2-5a1f92803229.png">
-This is what happened when I copied the entire inventory over to my ssh login, everything is copied. 
+This is what happened when I copied the entire inventory over to my ssh login, everything is copied. <br>
 <br>
 <img width="1053" alt="Screen Shot 2022-05-09 at 12 19 36 AM" src="https://user-images.githubusercontent.com/103221420/167361534-89319075-9f85-4205-9816-f93d0a943ec0.png">
 In the picture above, I compiled and ran the tests in my ieng6 account with the results passing as they should. 
