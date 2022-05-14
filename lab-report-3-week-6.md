@@ -1,7 +1,7 @@
 # Lab 3
 
 ## Part 1
-<img width="533" alt="Screen Shot 2022-05-14 at 4 08 10 PM" src="https://user-images.githubusercontent.com/103221420/168450813-e9602a9b-6cb6-4689-9a20-792b30b6fdf7.png">
+<img width="533" alt="Screen Shot 2022-05-14 at 4 08 10 PM" src="https://user-images.githubusercontent.com/103221420/168450813-e9602a9b-6cb6-4689-9a20-792b30b6fdf7.png"> <br>
 This image is showing how I used vi at the top of the screen to create the host file and then I logged into my ssh account using ```ssh ieng6```. 
 <br>
 scp: <img width="971" alt="Screen Shot 2022-05-06 at 5 15 17 PM" src="https://user-images.githubusercontent.com/103221420/167229995-c1f30677-6136-4cfc-ab82-d5a690d64d53.png">
@@ -13,6 +13,7 @@ This is my public key as found in github. <br>
 <img width="1136" alt="Screen Shot 2022-05-14 at 4 14 34 PM" src="https://user-images.githubusercontent.com/103221420/168450968-ecfbd950-f19b-4fc1-9611-b56a2b8be988.png">
 My private key (``` id_rsa ```) and public key (```id_rsa.pub```) contents are shown here in my user account.
 <img width="799" alt="edit:push file in ssh" src="https://user-images.githubusercontent.com/103221420/168450997-5172b1c4-dc27-448f-915c-23a286eed9b3.png">
+<br> 
 This is how I edited and pushed a change from my ieng6 account to github. The link to see the change of adding ```hello``` is seen [here](https://kekoa-pickett.github.io/SkillDemo1/hello.txt).
 
 ## Part 3
