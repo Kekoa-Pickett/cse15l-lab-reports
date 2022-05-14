@@ -13,7 +13,7 @@ This is my public key as found in github. <br>
 <img width="1136" alt="Screen Shot 2022-05-14 at 4 14 34 PM" src="https://user-images.githubusercontent.com/103221420/168450968-ecfbd950-f19b-4fc1-9611-b56a2b8be988.png">
 My private key (``` id_rsa ```) and public key (```id_rsa.pub```) contents are shown here in my user account.
 <img width="799" alt="edit:push file in ssh" src="https://user-images.githubusercontent.com/103221420/168450997-5172b1c4-dc27-448f-915c-23a286eed9b3.png">
-This is how I edited and pushed a change from my ieng6 account to github.
+This is how I edited and pushed a change from my ieng6 account to github. The link to see the change of adding ```hello``` is seen [here](https://kekoa-pickett.github.io/SkillDemo1/hello.txt).
 
 ## Part 3
 <img width="1150" alt="Screen Shot 2022-05-09 at 12 32 16 AM" src="https://user-images.githubusercontent.com/103221420/167361676-97447684-bdcf-4ae6-b5c7-b93c00c27a88.png"><img width="977" alt="Screen Shot 2022-05-09 at 12 32 49 AM" src="https://user-images.githubusercontent.com/103221420/167361764-5f1a12ff-77f0-4127-8485-a0a05d693419.png"><img width="1078" alt="Screen Shot 2022-05-09 at 12 33 12 AM" src="https://user-images.githubusercontent.com/103221420/167361821-b847798b-f9de-45dd-adc2-5a1f92803229.png">
