@@ -7,7 +7,7 @@ This image is showing how I used vi at the top of the screen to create the host 
 <img width="971" alt="Screen Shot 2022-05-06 at 5 15 17 PM" src="https://user-images.githubusercontent.com/103221420/167229995-c1f30677-6136-4cfc-ab82-d5a690d64d53.png">
 This also shows how I logged into ssh with the same commands and this one shows how I used scp to move ```CSE8B_PA1``` into my ```ssh ieng6``` folder.
 ## Part 2
-<img width="853" alt="Screen Shot 2022-05-14 at 4 10 30 PM" src="https://user-images.githubusercontent.com/103221420/168450907-d5d57920-ca76-4802-b85a-3a1dcdc7c931.png">
+<img width="853" alt="Screen Shot 2022-05-14 at 4 10 30 PM" src="https://user-images.githubusercontent.com/103221420/168450907-d5d57920-ca76-4802-b85a-3a1dcdc7c931.png"> <br>
 This is my public key as found in github. <br>
 
 <img width="1136" alt="Screen Shot 2022-05-14 at 4 14 34 PM" src="https://user-images.githubusercontent.com/103221420/168450968-ecfbd950-f19b-4fc1-9611-b56a2b8be988.png">
