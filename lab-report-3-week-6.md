@@ -1,7 +1,7 @@
 # Lab 3
 
 ## Part 1
-<img width="489" alt="Screen Shot 2022-05-14 at 4 04 41 PM" src="https://user-images.githubusercontent.com/103221420/168450747-569186bb-8b54-4092-a382-aeefa8b2f671.png">
+<img width="533" alt="Screen Shot 2022-05-14 at 4 08 10 PM" src="https://user-images.githubusercontent.com/103221420/168450813-e9602a9b-6cb6-4689-9a20-792b30b6fdf7.png">
 This image is showing how I used vim which is in the middle of the screen and then I logged into my ssh account using ```ssh ieng6```. 
 <br>
 scp: <img width="971" alt="Screen Shot 2022-05-06 at 5 15 17 PM" src="https://user-images.githubusercontent.com/103221420/167229995-c1f30677-6136-4cfc-ab82-d5a690d64d53.png">
