@@ -4,7 +4,7 @@
 <img width="533" alt="Screen Shot 2022-05-14 at 4 08 10 PM" src="https://user-images.githubusercontent.com/103221420/168450813-e9602a9b-6cb6-4689-9a20-792b30b6fdf7.png"> <br>
 This image is showing how I used vi at the top of the screen to create the host file and then I logged into my ssh account using ```ssh ieng6```. 
 <br>
-scp: <img width="971" alt="Screen Shot 2022-05-06 at 5 15 17 PM" src="https://user-images.githubusercontent.com/103221420/167229995-c1f30677-6136-4cfc-ab82-d5a690d64d53.png">
+<img width="971" alt="Screen Shot 2022-05-06 at 5 15 17 PM" src="https://user-images.githubusercontent.com/103221420/167229995-c1f30677-6136-4cfc-ab82-d5a690d64d53.png">
 This also shows how I logged into ssh with the same commands and this one shows how I used scp to move ```CSE8B_PA1``` into my ```ssh ieng6``` folder.
 ## Part 2
 <img width="853" alt="Screen Shot 2022-05-14 at 4 10 30 PM" src="https://user-images.githubusercontent.com/103221420/168450907-d5d57920-ca76-4802-b85a-3a1dcdc7c931.png">
