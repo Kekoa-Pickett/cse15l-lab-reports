@@ -15,7 +15,7 @@ The expected result is on the left with the snippet input on the right.
 <img width="1096" alt="Screen Shot 2022-05-29 at 9 13 28 PM" src="https://user-images.githubusercontent.com/103221420/170915859-f342ecdc-5287-4ef0-b024-0ba41fb8d48d.png">
 The expected result is on the left with the snippet input on the right.
 
-## Reviewed Repository's MarkdownParseTest's
+## MarkdownParseTest's I Created
 <img width="922" alt="Screen Shot 2022-05-26 at 10 29 42 PM" src="https://user-images.githubusercontent.com/103221420/170635657-e237fd57-56dc-4cfc-ada0-d86a670ab35f.png">
 Using snippet 1-3, I created tests for each input to compare against the expected output.
 
