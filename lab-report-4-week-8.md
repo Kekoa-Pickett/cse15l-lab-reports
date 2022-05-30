@@ -15,13 +15,13 @@ The expected result is on the left with the snippet input on the right.
 <img width="1096" alt="Screen Shot 2022-05-29 at 9 13 28 PM" src="https://user-images.githubusercontent.com/103221420/170915859-f342ecdc-5287-4ef0-b024-0ba41fb8d48d.png">
 The expected result is on the left with the snippet input on the right.
 
-## My Outputs
-<img width="1017" alt="Screen Shot 2022-05-26 at 10 42 09 PM" src="https://user-images.githubusercontent.com/103221420/170637459-45cd1ece-1572-4422-9783-5978b8ef64e2.png">
-My Markdown Parse failed all 3 tests by a lot.
-
 ## Reviewed Repository's MarkdownParseTest's
 <img width="922" alt="Screen Shot 2022-05-26 at 10 29 42 PM" src="https://user-images.githubusercontent.com/103221420/170635657-e237fd57-56dc-4cfc-ada0-d86a670ab35f.png">
 Using snippet 1-3, I created tests for each input to compare against the expected output.
+
+## My Outputs
+<img width="1017" alt="Screen Shot 2022-05-26 at 10 42 09 PM" src="https://user-images.githubusercontent.com/103221420/170637459-45cd1ece-1572-4422-9783-5978b8ef64e2.png">
+My Markdown Parse failed all 3 tests by a lot.
 
 ## Reviewed Repository Outputs
 <img width="1120" alt="Screen Shot 2022-05-26 at 10 04 39 PM" src="https://user-images.githubusercontent.com/103221420/170632943-c0a552b6-1b1c-4ec8-bdd9-a740ea08abde.png">
