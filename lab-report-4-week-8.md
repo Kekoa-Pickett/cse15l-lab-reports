@@ -27,7 +27,7 @@ Using snippet 1-3, I created tests for each input to compare against the expecte
 <img width="1120" alt="Screen Shot 2022-05-26 at 10 04 39 PM" src="https://user-images.githubusercontent.com/103221420/170632943-c0a552b6-1b1c-4ec8-bdd9-a740ea08abde.png">
 As you can see, their markdown parser failed all 3 tests.
 
-## Are these easy fixes.
+## Are these easy fixes. (The number refers to the snippet #)
 1. I think it is fixable with a few lines of code. I would just have to add a line that comments things out that are in between the backticks.
 2. No, this would require more work because the code is told to stop at the first end parenthese but you would have to look for. The other issue is we can't look into the next link while searching for the last parenthese.
 3. No, I need a lot of work for this one. I got the entire code which means I would have to go in and detail everything to switch what the code is looking for before it stops. This will definetly take more than 10 lines. 
