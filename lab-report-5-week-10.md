@@ -3,7 +3,7 @@
 I found my 2 bugs through using ```vimdiff``` on the results like suggested in the lab report. I compared both of them side by side and found two different bugs that had pretty big contrasts in answers and would be a big change. Then I looked at the md files to see if either implementation was correct.
 
 ## Part 1 (Test 488)
-One different results test was test 488 which the file is [here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/488.md).
+One different results test was test 488 which the .md file is [here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/488.md) and the .html file is [here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/488.html.test)
 
 My implementation was correct because it included the correct link in the results whereas the cse one didn't have a link.
 ### Outputs
@@ -17,7 +17,7 @@ My implementation was correct because it included the correct link in the result
 The bug is where it checks for the index of a space. Since the link has a space between the ```my``` and ```url```, the highlighted part catches it and stops the link from being added. Taking this part out would fix it for this one test but I'm sure it would cause a lot more challenges.
 
 ## Part 2 (Test 567)
-The other test with different results was test 567 which the test file is [here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/567.html.test).
+The other test with different results was test 567 which the .md test file is [here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/567.md) and the .html file is [here](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/567.html.test).
 
 Neither of the codes were correct. I added a link that was clearly not a link whereas cse15l code didn't add the correct link.
 ### Outputs
